@@ -18,6 +18,6 @@
    
 --------------------------------------------------------------------
 
-<a href="https://yuuire.com/">website</a> - <a href="https://guide.yuuire.com/">guide</a> - <a href="https://liberapay.com/yuuire/donate">donate</a> - <a href="https://yuu.one/">collective</a>
+<a href="https://yuuire.com/">website</a> - <a href="https://guide.yuuire.com/">guide</a> - <a href="https://liberapay.com/yuuire/donate">donate</a> - <a href="https://yuuire.com/links">contact</a>
 </pre>
 </div>
